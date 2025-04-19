@@ -372,8 +372,6 @@ This guide provides a detailed overview of MongoDB Query Selectors, Logical Oper
 
 ---
 
-> **Note:** For advanced full-text search capabilities in MongoDB Atlas, consider using **Atlas Search**.
-
 
 
 
